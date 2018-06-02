@@ -14,19 +14,11 @@ smartypants = true
 [[menu.main]]
 name = "Roadmap"
 url = "roadmap/"
-weight = 4
+weight = 3
 [[menu.main]]
 name = "Adding content"
 url = "adding-content/"
-weight = 3
-[[menu.main]]
-name = "Getting started"
-url = "getting-started/"
-weight = 2
-[[menu.main]]
-name = "Material"
-url = "/"
-weight = 1
+weight = 4
 [params]
 author = "Digitalcraftsman"
 copyright = "Released under the MIT license"

@@ -3,6 +3,10 @@ date: 2016-03-08 21:07:13 +0100
 title: Material for Hugo
 type: index
 weight: 0
+menu:
+  main:
+    name: Material
+    weight: 1
 
 ---
 ## Beautiful documentation
