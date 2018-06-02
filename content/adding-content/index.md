@@ -1,9 +1,10 @@
 ---
-date: 2016-03-09T19:56:50+01:00
+date: 2016-03-09 19:56:50 +0100
 title: Adding content
 weight: 20
----
+type: page
 
+---
 ## Hello world
 
 Let's create our first content file for your documentation. Open a terminal and add the following command for each new file you want to add. Replace `<section-name>` with a general term that describes your document in detail.

@@ -1,9 +1,10 @@
 ---
-date: 2016-03-09T20:08:11+01:00
+date: 2016-03-09 20:08:11 +0100
 title: Roadmap
 weight: 30
----
+type: page
 
+---
 Quo vadis? The port of the original [Material theme](https://github.com/squidfunk/mkdocs-material) has replicated nearly all of its features. A few are still missing but I've good news: the Hugo community is actively working on this issues. Maybe with the next release of Hugo we can abandon this list. Stay tuned.
 
 ## Localization
